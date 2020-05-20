@@ -11,3 +11,16 @@ C:\Users\Jelle\RiderProjects\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\Binar
 C:\Users\Jelle\RiderProjects\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
 C:\Users\Jelle\RiderProjects\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
 C:\Users\Jelle\RiderProjects\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\Jelle\Documents\GitHub\BinaryTree\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jelle\\RiderProjects\\BinaryTree\\BinaryTree\\BinaryTree.csproj": {}
+    "C:\\Users\\Jelle\\Documents\\GitHub\\BinaryTree\\BinaryTree\\BinaryTree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jelle\\RiderProjects\\BinaryTree\\BinaryTree\\BinaryTree.csproj": {
+    "C:\\Users\\Jelle\\Documents\\GitHub\\BinaryTree\\BinaryTree\\BinaryTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jelle\\RiderProjects\\BinaryTree\\BinaryTree\\BinaryTree.csproj",
+        "projectUniqueName": "C:\\Users\\Jelle\\Documents\\GitHub\\BinaryTree\\BinaryTree\\BinaryTree.csproj",
         "projectName": "BinaryTree",
-        "projectPath": "C:\\Users\\Jelle\\RiderProjects\\BinaryTree\\BinaryTree\\BinaryTree.csproj",
+        "projectPath": "C:\\Users\\Jelle\\Documents\\GitHub\\BinaryTree\\BinaryTree\\BinaryTree.csproj",
         "packagesPath": "C:\\Users\\Jelle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jelle\\RiderProjects\\BinaryTree\\BinaryTree\\obj\\",
+        "outputPath": "C:\\Users\\Jelle\\Documents\\GitHub\\BinaryTree\\BinaryTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jelle\\AppData\\Roaming\\NuGet\\NuGet.Config",

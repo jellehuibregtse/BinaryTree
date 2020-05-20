@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Jelle\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Jelle\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_BinaryTree.-1817403613.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Jelle\RiderProjects\BinaryTree" t="IncludeFlat">
+    <e p="C:\Users\Jelle\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_BinaryTree.83253606.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Jelle\AppData\Roaming\JetBrains\Rider2020.1\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Jelle\AppData\Roaming\JetBrains\Rider2020.1\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Jelle\Documents\GitHub\BinaryTree" t="IncludeFlat">
       <e p="BinaryTree" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="BinaryTree.csproj" t="IncludeRecursive" />
