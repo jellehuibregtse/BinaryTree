@@ -139,9 +139,9 @@ namespace BinaryTree
 
             var secondBinaryTree = new BinaryTree(tree);
             Console.WriteLine("[2] Breath-first:");
-            binaryTree.PrintLevelOrder(binaryTree.Root);
+            secondBinaryTree.PrintLevelOrder(binaryTree.Root);
             Console.WriteLine("\n[2] Depth-first:");
-            binaryTree.PrintDepthOrder(binaryTree.Root);
+            secondBinaryTree.PrintDepthOrder(binaryTree.Root);
         }
     }
 }

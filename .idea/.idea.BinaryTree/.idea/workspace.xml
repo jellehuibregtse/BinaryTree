@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7883f7da-bb5d-44db-97ea-2d55c54f8c6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryTree/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryTree/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/obj/BinaryTree.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/BinaryTree.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +85,7 @@
       <workItem from="1589874720560" duration="3553000" />
       <workItem from="1589960848703" duration="1000" />
       <workItem from="1589960937562" duration="428000" />
+      <workItem from="1593156480528" duration="701000" />
     </task>
     <servers />
   </component>
